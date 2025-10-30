@@ -1,0 +1,2 @@
+# Work Log
+Implement VPC peering to connect different environments
